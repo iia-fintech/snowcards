@@ -163,10 +163,10 @@ ol {
     color: #fff
 }
 .header-area.sticky .light.classy-nav-container a{
-    color: #333
+    color: #b1b1b1
 }
 .header-area.sticky .classy-navbar-toggler .navbarToggler span{
-    background: #333 !important
+    background: #a7a7a7 !important
 }
 #preloader {
     position: fixed;
@@ -1141,7 +1141,7 @@ ol {
 .header-area.sticky {
     -webkit-transition-duration: 500ms;
     transition-duration: 500ms;
-    background-color: #d7dfef;
+    background-color: #171717;
     box-shadow: 0 3px 15px rgba(0, 0, 0, 0.1);
     border-bottom: none;
 }
